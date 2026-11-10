@@ -42,7 +42,7 @@ Mục tiêu của đề tài là xây dựng một hệ thống IoT hoàn chỉn
   * Cho phép tùy chỉnh khẩu phần mỗi lần cho ăn linh hoạt ngay trên giao diện Dashboard.
 
 * **Đo lường lượng thức ăn trong bát:**
-  * Bát ăn đặt trên cảm biến trọng lượng Loadcell 5kg, tín hiệu vi sai truyền qua module giải mã HX711 về ESP32 để tính toán khối lượng thực tế (đơn vị: gram).
+  * Bát ăn đặt trên cảm biến trọng lượng Loadcell 1kg, tín hiệu vi sai truyền qua module giải mã HX711 về ESP32 để tính toán khối lượng thực tế (đơn vị: gram).
   * Ứng dụng số liệu: Ngăn chặn việc tiếp tục đổ thêm thức ăn khi bát vẫn còn đầy, đồng thời theo dõi lượng thức ăn giảm dần theo thời gian để nhận biết thú cưng đã ăn bao nhiêu.
   * Cần tiến hành hiệu chuẩn (calibration) cảm biến trước khi đưa vào vận hành.
 
