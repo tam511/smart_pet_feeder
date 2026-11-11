@@ -151,3 +151,10 @@ Trong hệ thống máy cho ăn thông minh, mỗi linh kiện đảm nhận m�
 
 * **10. Nút nhấn (Push Button)**
   * **Chức năng:** Cho phép người dùng chủ động thao tác thủ công ngay trên thiết bị (bấm để kích hoạt nhanh lệnh cho ăn ngay lập tức) mà không cần phụ thuộc vào điện thoại hay giao diện máy tính.
+## Tài liệu tham khảo
+
+### Datasheet linh kiện
+1. Espressif Systems, *ESP32 Series Datasheet*. [https://www.espressif.com/documentation/esp32_datasheet_en.pdf](https://www.espressif.com/documentation/esp32_datasheet_en.pdf)
+2. Avia Semiconductor, *HX711: 24-Bit Analog-to-Digital Converter (ADC) for Weigh Scales*. [https://datasheet.eeworld.com.cn/view/18792612.html](https://datasheet.eeworld.com.cn/view/18792612.html)
+3. ElecFreaks, *Ultrasonic Ranging Module HC-SR04*. [https://cdn.sparkfun.com/datasheets/Sensors/Proximity/HCSR04.pdf](https://cdn.sparkfun.com/datasheets/Sensors/Proximity/HCSR04.pdf)
+
